@@ -1,7 +1,7 @@
 # Simon-Game
 Jogo do Simon criado durante o boot camp de programação web 
 
-REGRAS:
+# REGRAS:
 1- Aperte uma tecla para começar.
 2- O jogo mostrará o botão que voce deverá apertar
 3- Após o player apertar o botão, o próximo será mostrado da mesma forma

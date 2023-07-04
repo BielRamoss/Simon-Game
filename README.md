@@ -1,8 +1,8 @@
 # Simon-Game
-Jogo do Simon criado durante o boot camp de programação web 
+Simon game created during web programming boot camp
 
-# REGRAS:
-1- Aperte uma tecla para começar.
-2- O jogo mostrará o botão que voce deverá apertar
-3- Após o player apertar o botão, o próximo será mostrado da mesma forma
-4- O player deve fazer o máximo de sequencia que conseguir memorizar
+# RULES:
+1- Press a key to start.
+2- The game will show the button that you must press
+3- After the player presses the button, the next one will be shown in the same way
+4- The player must make as many sequences as he can memorize
